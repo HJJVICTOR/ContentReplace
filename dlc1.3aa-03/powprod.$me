@@ -1,40 +1,0 @@
-*** External Controller Note: Running CONTROLLER_INIT
-*** External Controller Note:  DISCON controller compiled on 2022/7/7 at 12:25:37.
-
-*** External Controller Note:  Time: 0.000s - State: 13 - Alarm number 6 (A_CollectivePitchAngleBelowFine) raised.
-
-*** External Controller Note:  Time: 0.000s - State: 13 - Alarm number 6 (A_CollectivePitchAngleBelowFine) is now the highest active alarm.
-
-*** Event:  Activated safety system due to nacell vibration at time = 0.83 s
-*** External Controller Note:  Time: 0.835s - State: 13 - Safety system circuit number 1 activated.
-
-*** Event:  Activated safety system due to nacell vibration at time = 0.835 s
-*** Event:  Safety system circuit 1 activated by external controller
-*** External Controller Note:  Time: 0.995s - State: 13 - Alarm number 6 (A_CollectivePitchAngleBelowFine) cleared.
-
-*** External Controller Note:  Time: 0.995s - State: 13 - Alarm number 0 (no alarm) is now the highest active alarm.
-
-*** External Controller Note:  Time: 4.315s - State: 13 - Alarm number 12 (A_PitchFollowingError1) raised.
-
-*** External Controller Note:  Time: 4.315s - State: 13 - Alarm number 13 (A_PitchFollowingError2) raised.
-
-*** External Controller Note:  Time: 4.315s - State: 13 - Alarm number 14 (A_PitchFollowingError3) raised.
-
-*** External Controller Note:  Time: 4.315s - State: 13 - Alarm number 12 (A_PitchFollowingError1) is now the highest active alarm.
-
-*** Note:   Table of mechanical losses: out of range
-*** Note:   Table of electrical losses: out of range
-*** External Controller Note:  Time: 40.835s - State: 13 - Alarm number 12 (A_PitchFollowingError1) cleared.
-
-*** External Controller Note:  Time: 40.835s - State: 13 - Alarm number 13 (A_PitchFollowingError2) cleared.
-
-*** External Controller Note:  Time: 40.835s - State: 13 - Alarm number 14 (A_PitchFollowingError3) cleared.
-
-*** External Controller Note:  Time: 40.835s - State: 13 - Alarm number 0 (no alarm) is now the highest active alarm.
-
-*** Event:  Safety limit switch tripped on Blade 1 actuator at 43.955s. Pitch brake activated and motor disengaged
-*** Event:  Safety limit switch tripped on Blade 2 actuator at 43.955s. Pitch brake activated and motor disengaged
-*** Event:  Safety limit switch tripped on Blade 3 actuator at 43.955s. Pitch brake activated and motor disengaged
-*** WARNING:   Generator torque lower limit reached
-
- *** Program terminated unexpectedly

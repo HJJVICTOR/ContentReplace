@@ -3,8 +3,8 @@ import os
 import sys
 import re
 
+### Readme: 在脚本文件contenReplace.py中第50行修改控制器原路径、51行修改控制器新路径。
 
-# 文件查找 find . -name file_name -type f
 # 查找函数：search_path 查找根路径 file_name 需要查找的文件名
 def search(search_path, search_file_pattern, search_result):
     # 获取当前路径下地所有文件
@@ -44,11 +44,11 @@ if __name__ == '__main__':
     path = os.getcwd()
 
     # 正则表达式匹配目标文件名
-    file_pattern = "file(.*).txt"
+    file_pattern = "dlc(.*).\$PJ"
 
-    # 在此更改需要替换的文本
-    old_str = "Content"
-    new_str = "ContentReplace"
+    # 在此更改需要替换的路径
+    old_str = "E:\MySE11-230(V7N5)_qingzhou2_di2pi_F1_20220606\control\Discon.dll"
+    new_str = "E:\MySE11-230(V7N5)_qingzhou2_di2pi_F1_2022\control\Discon.dll"
     
     
     try:

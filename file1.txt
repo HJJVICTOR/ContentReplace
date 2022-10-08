@@ -1,4 +1,0 @@
-D:\GitTest\ContentReplace1
-D:\GitTest\ContentReplace2
-D:\GitTest\ContentReplace3
-contentReplace.py -p D:\GitTest\ContentReplaceReplace -f file2.txt

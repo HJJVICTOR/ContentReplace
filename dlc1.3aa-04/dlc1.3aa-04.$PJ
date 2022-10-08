@@ -8739,12 +8739,12 @@ MEND
     <LogSwapArray>false</LogSwapArray>
     <ExternalControllers>
       <ExternalController>
-        <Filepath>E:\MySE11-230(V7N5)_qingzhou2_di2pi_F1_20220606\control\Discon.dll</Filepath>
+        <Filepath>E:\MySE11-230(V7N5)_qingzhou2_di2pi_F1_2022\control\Discon.dll</Filepath>
         <CallingConvention>__cdecl</CallingConvention>
         <StandardFunctions>true</StandardFunctions>
         <FunctionName>CONTROLLER</FunctionName>
         <TimeStep>Every</TimeStep>
-        <AdditionalParameters>READ	E:\MySE11-230(V7N5)_qingzhou2_di2pi_F1_20220606\control\Parameters24.xml</AdditionalParameters>
+        <AdditionalParameters>READ	E:\control\Parameters24.xml</AdditionalParameters>
         <PassParametersByFile>true</PassParametersByFile>
         <ForceLegacy>false</ForceLegacy>
       </ExternalController>
