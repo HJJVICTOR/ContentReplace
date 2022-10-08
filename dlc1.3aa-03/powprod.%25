@@ -1,0 +1,22 @@
+FILE	powprod.$25
+ACCESS	D
+FORM	F
+RECL	4
+FORMAT	R*4
+CONTENT	'POWPROD'
+CONFIG	'STATIONARY'
+NDIMENS	3
+DIMENS	8	18	0
+GENLAB	'Tower member loads - local coordinates'
+VARIAB	'Tower Mx' 'Tower My' 'Tower Mz' 'Tower Myz' 'Tower Fx' 'Tower Fy' 'Tower Fz' 'Tower Fyz'
+VARUNIT	FL FL FL FL F F F F
+AXISLAB	'Location'
+AXIUNIT	N
+AXIMETH	1
+AXITICK	'Mbr 197 End 1' 'Mbr 197 End 2' 'Mbr 198 End 1' 'Mbr 198 End 2' 'Mbr 199 End 1' 'Mbr 199 End 2' 'Mbr 200 End 1' 'Mbr 200 End 2' 'Mbr 287 End 1' 'Mbr 287 End 2' 'Mbr 296 End 1' 'Mbr 296 End 2' 'Mbr 308 End 1' 'Mbr 308 End 2' 'Mbr 324 End 1' 'Mbr 324 End 2' 'Mbr 339 End 1' 'Mbr 339 End 2'
+AXISLAB	'Time'
+AXIUNIT	T
+AXIMETH	2
+MIN 	0.0000000E+000
+STEP	5.0000001E-002
+NVARS	0

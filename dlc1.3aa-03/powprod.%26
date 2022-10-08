@@ -1,0 +1,18 @@
+FILE	powprod.$26
+ACCESS	D
+FORM	F
+RECL	4
+FORMAT	R*4
+CONTENT	'POWPROD'
+CONFIG	'STATIONARY'
+NDIMENS	2
+DIMENS	18	0
+GENLAB	'Nacelle motion'
+VARIAB	'Nacelle fore-aft displacement' 'Nacelle side-side displacement' 'Nacelle vertical displacement' 'Nacelle roll angle' 'Nacelle nod angle' 'Nacelle yaw displacement' 'Nacelle fore-aft velocity' 'Nacelle side-side velocity' 'Nacelle vertical velocity' 'Nacelle roll velocity' 'Nacelle nod velocity' 'Nacelle yaw velocity' 'Nacelle fore-aft acceleration' 'Nacelle side-side acceleration' 'Nacelle vertical acceleration' 'Nacelle roll acceleration' 'Nacelle nod acceleration' 'Nacelle yaw acceleration'
+VARUNIT	L L L A A A L/T L/T L/T A/T A/T A/T L/TT L/TT L/TT A/TT A/TT A/TT
+AXISLAB	'Time'
+AXIUNIT	T
+AXIMETH	2
+MIN 	0.0000000E+000
+STEP	5.0000001E-002
+NVARS	0

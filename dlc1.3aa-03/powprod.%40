@@ -1,0 +1,22 @@
+FILE	powprod.$40
+ACCESS	D
+FORM	F
+RECL	4
+FORMAT	R*4
+CONTENT	'POWPROD'
+CONFIG	'STATIONARY'
+NDIMENS	3
+DIMENS	6	4	0
+GENLAB	'Foundation reactions GL coordinates'
+VARIAB	'Reaction Fx' 'Reaction Fy' 'Reaction Fz' 'Reaction Mx' 'Reaction My' 'Reaction Mz'
+VARUNIT	F F F FL FL FL
+AXISLAB	'Station'
+AXIUNIT	N
+AXIMETH	1
+AXITICK	'Stn 1 ' 'Stn 2 ' 'Stn 3 ' 'Stn 4 '
+AXISLAB	'Time'
+AXIUNIT	T
+AXIMETH	2
+MIN 	0.0000000E+000
+STEP	5.0000001E-002
+NVARS	0

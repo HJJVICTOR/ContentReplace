@@ -1,0 +1,22 @@
+FILE	powprod.$57
+ACCESS	D
+FORM	F
+RECL	4
+FORMAT	R*4
+CONTENT	'POWPROD'
+CONFIG	'STATIONARY'
+NDIMENS	3
+DIMENS	6	7	0
+GENLAB	'Support Structure velocities'
+VARIAB	'Support Structure x-velocity' 'Support Structure y-velocity' 'Support Structure z-velocity' 'Support Structure angular velocity about x' 'Support Structure angular velocity about y' 'Support Structure angular velocity about z'
+VARUNIT	L/T L/T L/T A/T A/T A/T
+AXISLAB	'Structure node'
+AXIUNIT	N
+AXIMETH	1
+AXITICK	'Node 1' 'Node 2' 'Node 3' 'Node 4' 'Node 47' 'Node 252' 'Node 304'
+AXISLAB	'Time'
+AXIUNIT	T
+AXIMETH	2
+MIN 	0.0000000E+000
+STEP	5.0000001E-002
+NVARS	0

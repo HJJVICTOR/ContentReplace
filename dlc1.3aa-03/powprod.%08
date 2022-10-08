@@ -1,0 +1,18 @@
+FILE	powprod.$08
+ACCESS	D
+FORM	F
+RECL	4
+FORMAT	R*4
+CONTENT	'POWPROD'
+CONFIG	'STATIONARY'
+NDIMENS	2
+DIMENS	33	0
+GENLAB	'Pitch system'
+VARIAB	'Blade 1 pitch angle' 'Blade 2 pitch angle' 'Blade 3 pitch angle' 'Blade 1 pitch rate' 'Blade 2 pitch rate' 'Blade 3 pitch rate' 'Blade 1 pitch acceleration' 'Blade 2 pitch acceleration' 'Blade 3 pitch acceleration' 'Blade 1 controller demanded pitch angle' 'Blade 2 controller demanded pitch angle' 'Blade 3 controller demanded pitch angle' 'Blade 1 limited demanded pitch angle' 'Blade 2 limited demanded pitch angle' 'Blade 3 limited demanded pitch angle' 'Blade 1 external pitch bearing moment' 'Blade 2 external pitch bearing moment' 'Blade 3 external pitch bearing moment' 'Blade 1 Pitch bearing friction' 'Blade 2 Pitch bearing friction' 'Blade 3 Pitch bearing friction' 'Blade 1 Pitching inertia' 'Blade 2 Pitching inertia' 'Blade 3 Pitching inertia' 'Blade 1 Pitch actuator torque' 'Blade 2 Pitch actuator torque' 'Blade 3 Pitch actuator torque' 'Blade 1 ring gear torque' 'Blade 2 ring gear torque' 'Blade 3 ring gear torque' 'Blade 1 pitch motor velocity' 'Blade 2 pitch motor velocity' 'Blade 3 pitch motor velocity'
+VARUNIT	A A A A/T A/T A/T A/TT A/TT A/TT A A A A A A FL FL FL FL FL FL MLL MLL MLL FL FL FL FL FL FL A/T A/T A/T
+AXISLAB	'Time'
+AXIUNIT	T
+AXIMETH	2
+MIN 	0.0000000E+000
+STEP	5.0000001E-002
+NVARS	0
